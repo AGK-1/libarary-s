@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("cd23be34-903e-4329-9229-e3c7e6cd2ae4")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("web_api_postgres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c679f6c4ca9147e23ee4608d041f69ff3dcb3d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67e53af5264990c1346bf92c3b24526bddf498bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("web_api_postgres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web_api_postgres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

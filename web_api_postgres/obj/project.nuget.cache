@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E3EhP7ptoYo=",
+  "dgSpecHash": "7MQS+4sVejs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Android_999\\Desktop\\node_js_lesson\\web_api_postgres\\web_api_postgres\\web_api_postgres.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\Android_999\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Android_999\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Android_999\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Android_999\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\Android_999\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Android_999\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
     "C:\\Users\\Android_999\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0\\npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512",
