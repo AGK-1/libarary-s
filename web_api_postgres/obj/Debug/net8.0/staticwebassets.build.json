@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RGJEoiuVFerdgGIIL3ekDUFr4SHcRupHoJtoceue5zo=",
+  "Source": "web_api_postgres",
+  "BasePath": "_content/web_api_postgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
