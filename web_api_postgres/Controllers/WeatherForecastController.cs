@@ -9,7 +9,7 @@ using web_api_postgres.Models;
 namespace web_api_postgres.Controllers
 {
     [ApiController]
-    [Route("/")]
+    [Route("api/[controller]")]
     //[Route("[controller]")]
     public class LibraryController : ControllerBase
     {
