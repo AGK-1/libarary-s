@@ -9,7 +9,8 @@ using web_api_postgres.Models;
 namespace web_api_postgres.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("/")]
+    //[Route("[controller]")]
     public class LibraryController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
